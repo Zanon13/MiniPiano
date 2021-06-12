@@ -5,7 +5,7 @@ Um script feito através do main.js para aplicar funcionalidades ao mini piano
 ---
 
 ### Tecnologias utilizadas
- [ ] JavaScript
+ - [x] JavaScript
 
 ---
 
